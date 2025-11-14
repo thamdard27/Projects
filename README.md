@@ -15,7 +15,7 @@ This project applies multiple machine learning techniques to predict diabetes us
 
 ## Dataset
 
-* **Source:** Diabetes Prediction Dataset (Kaggle)
+* **Source:** Diabetes Prediction Dataset (Kaggle) "https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset"
 * **Records:** 100,000
 * **Features:** age, gender, hypertension, heart disease, BMI, smoking history, HbA1c, blood glucose
 * **Target Variable:** diabetes (0 = No, 1 = Yes)
